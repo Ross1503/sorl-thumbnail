@@ -50,6 +50,7 @@ addons:
   apt:
     packages:
       - libgraphicsmagick1-dev
+      - imagemagick
       - graphicsmagick
       - libjpeg62
       - zlib1g-dev
